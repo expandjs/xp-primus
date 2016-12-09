@@ -1,0 +1,31 @@
+{
+  "name": "xp-primus",
+  "description": "A class used to wrap Primus functionality",
+  "version": "1.0.0",
+  "license": "BSD-3-Clause",
+  "homepage": "https://expandjs.com/classes/xp-primus",
+  "author": "ExpandJS <dev@expandjs.com> (https://expandjs.com)",
+
+  "contributors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expandjs/xp-primus.git"
+  },
+
+  "dependencies": {
+    "expandjs": "^1.0.0",
+    "primus.io": "^4.0.0",
+    "ws": "^1.0.0",
+    "xp-emitter": "^1.0.0",
+    "xp-script": "^1.0.0"
+  },
+
+  "scripts": {
+    "build": "webpack"
+  }
+}
