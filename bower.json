@@ -1,7 +1,7 @@
 {
   "name": "xp-primus",
   "description": "A class used to wrap Primus functionality",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "BSD-3-Clause",
   "homepage": "https://expandjs.com/classes/xp-primus",
 
